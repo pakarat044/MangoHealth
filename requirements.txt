@@ -1,0 +1,6 @@
+pillow
+python-dotenv
+line-bot-sdk
+flask
+tensorflow
+serverless-wsgi
