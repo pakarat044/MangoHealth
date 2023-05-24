@@ -8,6 +8,9 @@ Diseases that can detect are โรคแอนแทรคโนส, โรค�
 2. python3 app.py
 3. ngrok http 127.0.0.1:8000
 
+## Link for adding friend with line bot
+https://lin.ee/vOXvWYd
+
 ## Document
 * [Redbook](https://docs.google.com/document/d/1tHw2VveexSM8IRR8rzJtViwg2BdTj3n7nvMDWSuOOXU/edit?usp=sharing)
 * [Technical Paper](https://docs.google.com/document/d/1fbvNg52ynpI9OOTDDL6GlZgxExodJPYNvFToP6UxJBw/edit?usp=sharing)
